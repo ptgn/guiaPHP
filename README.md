@@ -1,11 +1,13 @@
 # Guia PHP
 =======
-
+ 
 ## Objetivos
 
 ## Documentación
 
 ## Herramientas
+*Git*
+* [TryGit](https://try.github.io/levels/1/challenges/1) - Got 15 minutes and want to learn Git?
 
 ## Frameworks
 *Web development frameworks.*
@@ -22,7 +24,7 @@
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Fast Route](https://github.com/nikic/FastRoute) - A fast routing library.
-* [Pux](https://github.com/c9s/Pux) - Another fast routing library.
+
 
 ## Articulos 
 
